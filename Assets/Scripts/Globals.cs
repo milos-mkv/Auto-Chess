@@ -8,7 +8,8 @@ public enum UnitStates
     Move,
     Attack,
     Die,
-    Debug
+    Debug,
+    Kurto
 }
 
 public static class Utils
